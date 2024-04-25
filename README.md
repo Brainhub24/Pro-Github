@@ -39,7 +39,7 @@ Donations from 1000$ = Let's talk!<br>
     "secret_pseudo_names": null,
     "current_company": null,
     "former_company": null,
-    "job_title": null,
+    "job_title": SHADOW-WARRIOR,
     "position": null,
     "salary": null,
     "birthday": null,
